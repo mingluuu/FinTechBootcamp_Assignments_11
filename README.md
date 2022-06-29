@@ -12,4 +12,4 @@ This project leverages python 3.7, Google Colaboratory and Facebook Prophet libr
 
 **Instruction**
 ----
-To use this application simply clone the repository and save forecasting_net_prophet_google_final.ipynb in the Jupyter Notebook. Then go to the https://colab.research.google.com/ to launch google colab and upload forecasting_net_prophet_google_final.ipynb that saved to your jupyter notebook.
+To use this application simply clone the repository and save forecasting_net_prophet final.ipynb in the Jupyter Notebook. Then go to the https://colab.research.google.com/ to launch google colab and upload forecasting_net_prophet final.ipynb that saved to your jupyter notebook.
